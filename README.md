@@ -5,7 +5,7 @@
 - Kelas : TI.21.A.1
 - Mata Kuliah : Bahasa Pemrograman
 
-## SOAL UJIAN
+## SOAL UJIAN Edit Git Push
 
 ![100](Screenshot/soal-uas-pemrograman.png)
 
